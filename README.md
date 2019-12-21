@@ -1,5 +1,4 @@
 # Python_Games
-Python
 ## Simple Games Using Python:
 
 ### 1.Rock paper scissor game :
